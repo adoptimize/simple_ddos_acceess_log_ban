@@ -1,10 +1,10 @@
 
 
-Abstract
+Abstract:
  this script will grep the last (XXX) entries in access_log and checks
  wether one ip is hammering on our website.
 
-Dependency
+Dependency:
  To use this script you will need a working fail2ban installation on
  your server
 
